@@ -21,6 +21,8 @@ Ao renderizar e realizar a "costura" (*stitching*) de imagens de satélite em re
 - **Reflexo Especular da Água (*Specular Glare*):** A luz solar reflete na água de forma variável dependendo da posição do satélite. Isso causa manchas brilhantes e desalinhamento de cores ao costurar fotos vizinhas tiradas em horários diferentes.
 - **Dinâmica de Marés e Ondas:** Como a água está em constante movimento, imagens capturadas em momentos distintos apresentam variações na faixa de areia visível, espumas de ondas e turbidez, exigindo algoritmos de suavização (*blending*).
 - **Gradiente de Profundidade:** Transicionar suavemente as cores do oceano profundo (azul escuro) para a costa rasa (verde-água/turquesa) sem criar bordas bruscas ou artefatos de compressão na textura.
+- Conexão Forense (TerraVision vs. Google Earth):
+Assim como discutido no Episódio 4 durante a perícia de código do tribunal, a lógica de carregar dados geoespaciais em tempo real depende diretamente de estruturas condicionais eficientes (if/else) para evitar o estrangulamento da memória RAM/VRAM ao renderizar grandes superfícies como os oceanos e costas do planeta.
 
 ### 2. Design de Interface e Leis da Gestalt
 Ao observar a navegação no Google Earth para o mapeamento litorâneo, identificamos as seguintes Leis da Gestalt:

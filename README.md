@@ -8,12 +8,12 @@
 
 ---
 
-## 📌 Etapa 1: Algoritmo em Python
+##  Etapa 1: Algoritmo em Python
 O código desenvolvido no arquivo `script.py` implementa a técnica de **Level of Detail (LoD)**, alternando a resolução dos dados geoespaciais conforme a aproximação da câmera virtual em regiões litorâneas.
 
 ---
 
-## 🎨 Etapa 2: Análise de Computação Gráfica & UX/UI
+## Etapa 2: Análise de Computação Gráfica & UX/UI
 
 ### 1. Processamento e Tratamento de Imagem (Stitching e Texturas)
 Ao renderizar e realizar a "costura" (*stitching*) de imagens de satélite em regiões litorâneas e oceânicas, os algoritmos enfrentam os seguintes desafios técnicos:

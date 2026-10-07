@@ -27,3 +27,28 @@ altitudes_teste = [18000, 7500, 3200, 950, 200]
 
 # Executando a função
 carregar_camada_satelite(altitudes_teste)
+# script.py - Versão Avançada com Tratamento de Exceções
+def carregar_camada_satelite(lista_altitudes):
+    try:
+        if not isinstance(lista_altitudes, list) or len(lista_altitudes) < 5:
+            raise ValueError("A entrada deve ser uma lista com no mínimo 5 valores de altitude.")
+        
+        for altitude in lista_altitudes:
+            if not isinstance(altitude, (int, float)):
+                print(f"-> [Erro]: Valor '{altitude}' inválido. A altitude deve ser um número.")
+                continue
+                
+            print(f"\n[Altitude da Câmera: {altitude}m]")
+            if altitude > 10000:
+                print("-> [Baixa Resolução]: Mosaico geral de bacias oceânicas e continente.")
+            elif 1000 <= altitude <= 10000:
+                print("-> [Média Resolução]: Mosaico regional da faixa costeira e profundidade.")
+            else:
+                print("-> [Alta Resolução]: Detalhes de linha de praia, arrebentação e erosão costeira.")
+                
+    except Exception as e:
+        print(f"Ocorreu um erro no processamento: {e}")
+
+# Teste com dados válidos e um teste de erro
+altitudes_teste = [18000, 7500, 3200, 950, 200]
+carregar_camada_satelite(altitudes_teste)

@@ -8,12 +8,12 @@
 
 ---
 
-## 💻 Etapa 1: Algoritmo em Python (`script.py`)
+##  Etapa 1: Algoritmo em Python (`script.py`)
 O código desenvolvido no ficheiro `script.py` implementa a técnica de **Level of Detail (LoD)**, alterando adaptativamente a resolução dos dados geoespaciais conforme a aproximação da câmara virtual em regiões litorâneas e zonas costeiras.
 
 ---
 
-## 🎨 Etapa 2: Análise de Computação Gráfica & UX/UI
+##  Etapa 2: Análise de Computação Gráfica & UX/UI
 
 ### 1. Processamento e Tratamento de Imagem (Stitching e Texturas)
 Ao renderizar e realizar a "costura" (*stitching*) de imagens de satélite em regiões litorâneas e oceânicas, os algoritmos enfrentam os seguintes desafios técnicos:
@@ -38,12 +38,12 @@ Ao observar a navegação no Google Earth para o mapeamento litorâneo, identifi
 
 ---
 
-## ⚖️ Conexão Forense (TerraVision vs. Google Earth)
+##  Conexão Forense (TerraVision vs. Google Earth)
 Assim como discutido no Episódio 4 durante a perícia de código do tribunal, a lógica de carregar dados geoespaciais em tempo real depende diretamente de estruturas condicionais eficientes (`if/else`) para evitar o estrangulamento da memória RAM/VRAM ao renderizar grandes superfícies como os oceanos e costas do planeta.
 
 ---
 
-## 📜 Histórico de Commits (Git)
+##  Histórico de Commits (Git)
 - `feat: estrutura inicial do repositorio e README.md`
 - `feat(script): criacao da funcao carregar_camada_satelite com estruturas condicionais`
 - `docs(readme): insercao da analise de processamento de imagem e leis da Gestalt`

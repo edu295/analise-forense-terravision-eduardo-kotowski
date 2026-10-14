@@ -34,6 +34,6 @@ Ao observar a navegação no Google Earth para o mapeamento litorâneo, identifi
 
 ---
 
-## 📸 Evidência Visual (Captura de Tela)
+##  Evidência Visual (Captura de Tela)
 ![Linha de Costa no Google Earth](imagem_costa.png)
 *Figura 1: Captura de tela do Google Earth demonstrando a dinâmica de linha de costa e erosão litorânea.*

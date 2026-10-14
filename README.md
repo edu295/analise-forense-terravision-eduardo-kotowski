@@ -32,7 +32,7 @@ Ao observar a navegação no Google Earth para o mapeamento litorâneo, identifi
 
 ### 3. Imagens / Evidências Visuais
 
-![Pontal de Atafona no Google Earth](imagem_costa.jpg)
+![Pontal de Atafona no Google Earth](imagem_costa.png)
 
 *Figura 1: Captura de ecrã do Google Earth focada no Pontal de Atafona (São João da Barra / RJ), demonstrando a foz do Rio Paraíba do Sul, a turbidez e plumas de sedimentos na água, a dinâmica de ondas e o impacto direto da erosão costeira na malha urbana.*
 

@@ -3,7 +3,7 @@
 - **Aluno:** Eduardo Gabriel da Silva Kotowski
 - **Número:** 3
 - **Turma:** 3°D - DS
-- **Tema Designado:** 3. Regiões Litorâneas e Dinâmica Oceânica (Linha de Costa/Erosão)
+- **Tema:** 3. Regiões Litorâneas e Dinâmica Oceânica (Linha de Costa/Erosão)
 - **Disciplinas Integradas:** Ciência de Dados & Computação Gráfica
 
 ---

@@ -96,12 +96,6 @@ No Episódio 4, durante a perícia do código no tribunal, o ponto central era q
 - Os limites de altitude (1000, 200 e 30 km) são valores que eu escolhi para a demonstração.
 - O consumo de memória é uma estimativa simples (4 bytes por pixel, camada RGBA de 8 bits).
 
-## Histórico de commits
 
-- `feat: estrutura inicial do repositorio e README.md`
-- `feat(script): criacao da funcao carregar_camada_satelite com estruturas condicionais`
-- `docs(readme): insercao da analise de processamento de imagem e leis da Gestalt`
-- `fix(script): tratamento de excecoes para validacao das altitudes`
-- `docs(readme): inclusao do item 3 (evidencia visual) e historico de commits`
 - `feat(script): renderizacao da imagem com matplotlib e grafico de memoria`
 - `docs(readme): reescrita do README com resultados e limitacoes`

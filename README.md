@@ -153,16 +153,7 @@ Prefiro deixar claro o que o projeto **não** faz:
 
 ---
 
-## Histórico de commits
 
-- `feat: estrutura inicial do repositorio e README.md`
-- `feat(script): criacao da funcao carregar_camada_satelite com estruturas condicionais`
-- `docs(readme): insercao da analise de processamento de imagem e leis da Gestalt`
-- `fix(script): tratamento de excecoes para validacao das altitudes`
-- `docs(readme): inclusao do item 3 (evidencia visual) e historico de commits`
-- `feat(script): renderizacao da imagem com matplotlib e grafico de memoria`
-- `feat(script): carrega imagem_costa.png e abre janela com a renderizacao`
-- `feat(script): janela interativa com zoom, arrasto e animacao das ondas`
 - `docs(readme): reescrita do README com resultados, limitacoes e referencias`
 
 ---

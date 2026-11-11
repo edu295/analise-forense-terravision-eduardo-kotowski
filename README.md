@@ -92,9 +92,11 @@ O `script.py` faz seis coisas, nesta ordem:
 
 ## Resultados
 
-![Painel com os quatro níveis de LoD](renderizacao_lod.png)
+![Painel com os quatro níveis de LoD](![Uploading captura_lod.png…]()
+)
 
-*Figura 1: saída do `script.py`. Em cima, a mesma imagem carregada em quatro níveis de LoD. Embaixo, a memória usada por cada camada (escala logarítmica).*
+*Figura 1: saída do `script.py`. Em cima, a ![Uploading captura_lod.png…]()
+mesma imagem carregada em quatro níveis de LoD. Embaixo, a memória usada por cada camada (escala logarítmica).*
 
 O que dá para observar:
 

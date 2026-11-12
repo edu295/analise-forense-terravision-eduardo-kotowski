@@ -156,7 +156,6 @@ Prefiro deixar claro o que o projeto **não** faz:
 ---
 
 
-- `docs(readme): reescrita do README com resultados, limitacoes e referencias`
 
 ---
 

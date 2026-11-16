@@ -93,17 +93,8 @@ O `script.py` segue seis passos diretos:
 
 ![Painel com os quatro níveis de LoD](renderizacao_lod.png)
 
-*Figura 1: saída gerada pelo `script.py`. Na parte de cima aparece a mesma imagem carregada nos quatro níveis de LoD. Embaixo, o gráfico mostra a memória consumida por cada camada em escala logarítmica.*
 
-Olhando o resultado, algumas coisas saltam aos olhos:
 
-- **LoD 0:** a costa vira um borrão de quadrados gigantes. Você ainda distingue terra, mar e a mancha de sedimentos na água, mas para por aí.
-- **LoD 1 e 2:** a foz do rio, a faixa de areia e o recorte do litoral começam a ganhar contorno.
-- **LoD 3:** entra a imagem original limpa, revelando as ondas, as ruas e as casas atingidas pela erosão.
-- **Na janela interativa:** de longe, as ondas parecem só um brilho suave piscando sobre blocos grandes. Quando você aproxima, elas ganham desenho próprio. O detalhe fino simplesmente não existe nos níveis mais baixos.
-- **O peso na memória:** o LoD 3 consome cerca de **4.000 vezes mais memória** que o LoD 0, já que 64 × 64 equivalem a 4.096 pixels para cada pixel do nível global. Carregar o planeta inteiro nessa qualidade travaria qualquer máquina, e é exatamente aí que o `if/elif/else` salva o sistema.
-
----
 
 ## Análise de Computação Gráfica e UX/UI
 

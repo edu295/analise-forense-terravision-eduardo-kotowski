@@ -9,7 +9,7 @@
 
 ---
 
-## Sumário
+## Conceitos
 
 1. [Sobre o projeto](#sobre-o-projeto)
 2. [Como rodar](#como-rodar)
@@ -18,8 +18,8 @@
 5. [Análise de Computação Gráfica e UX/UI](#análise-de-computação-gráfica-e-uxui)
 6. [Conexão forense](#conexão-forense)
 7. [Limitações](#limitações)
-8. [Histórico de commits](#histórico-de-commits)
-9. [Referências](#referências)
+8. [Referências](#referências)
+9. Refer
 
 ---
 

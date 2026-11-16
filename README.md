@@ -9,7 +9,7 @@
 
 ---
 
-## Índice
+## Topicos
 
 1. [Sobre o projeto](#sobre-o-projeto)
 2. [Como rodar](#como-rodar)

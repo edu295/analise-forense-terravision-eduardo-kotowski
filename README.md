@@ -5,7 +5,7 @@
 **Tema 3:** Regiões Litorâneas e Dinâmica Oceânica (Linha de Costa/Erosão)
 **Disciplinas integradas:** Ciência de Dados & Computação Gráfica
 
-![Renderização dos 4 níveis de LoD e consumo de memória](renderizacao_lod.png)
+![Renderização dos 4 níveis de LoD e consumo de memória]![Painel com os quatro níveis de LoD](renderizacao_lod.png))
 
 ---
 
